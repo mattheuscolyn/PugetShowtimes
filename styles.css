@@ -1,0 +1,21 @@
+.film-item {
+    margin-bottom: 30px;
+  }
+  
+  .showtime-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .showtime-header {
+    font-weight: bold;
+  }
+  
+  .almost-sold-out {
+    color: red;
+  }
+  
+  .showtime-details {
+    display: inline-block;
+  }
+  
